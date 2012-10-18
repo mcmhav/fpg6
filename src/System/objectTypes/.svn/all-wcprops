@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/522/fellesprosjekt-guppe-6/System/objectTypes
+END
+TimeFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/522/fellesprosjekt-guppe-6/System/objectTypes/TimeFrame.java
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/444/fellesprosjekt-guppe-6/System/objectTypes/Employee.java
+END
+Meeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/431/fellesprosjekt-guppe-6/System/objectTypes/Meeting.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/224/fellesprosjekt-guppe-6/System/objectTypes/Room.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/462/fellesprosjekt-guppe-6/System/objectTypes/Command.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/468/fellesprosjekt-guppe-6/System/objectTypes/Event.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/513/fellesprosjekt-guppe-6/System/objectTypes/Message.java
+END
+IllegalTimeFrameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/469/fellesprosjekt-guppe-6/System/objectTypes/IllegalTimeFrameException.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/fellesprosjekt-guppe-6/System/objectTypes/MessageType.java
+END

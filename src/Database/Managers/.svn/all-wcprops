@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/526/fellesprosjekt-guppe-6/Database/Managers
+END
+EmployeeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/245/fellesprosjekt-guppe-6/Database/Managers/EmployeeManager.java
+END
+IObjektManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/245/fellesprosjekt-guppe-6/Database/Managers/IObjektManager.java
+END
+TimeFrameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/323/fellesprosjekt-guppe-6/Database/Managers/TimeFrameManager.java
+END
+ParticipantsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/462/fellesprosjekt-guppe-6/Database/Managers/ParticipantsManager.java
+END
+MessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/512/fellesprosjekt-guppe-6/Database/Managers/MessageManager.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/490/fellesprosjekt-guppe-6/Database/Managers/EventManager.java
+END
+MeetingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/526/fellesprosjekt-guppe-6/Database/Managers/MeetingManager.java
+END
+RoomManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/361/fellesprosjekt-guppe-6/Database/Managers/RoomManager.java
+END

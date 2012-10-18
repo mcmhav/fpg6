@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/74/fellesprosjekt-guppe-6/MMI/cell
+END
+MultiSpanCellTableUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/74/fellesprosjekt-guppe-6/MMI/cell/MultiSpanCellTableUI.java
+END
+CellSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/CellSpan.java
+END
+AttributiveCellTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/AttributiveCellTableModel.java
+END
+CellAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/CellAttribute.java
+END
+MultiSpanCellTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/fellesprosjekt-guppe-6/MMI/cell/MultiSpanCellTable.java
+END
+DefaultCellAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/DefaultCellAttribute.java
+END
+TextColorChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/TextColorChooser.java
+END
+ColoredCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/ColoredCell.java
+END
+AttributiveCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/AttributiveCellRenderer.java
+END
+CellFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/fellesprosjekt-guppe-6/MMI/cell/CellFont.java
+END
